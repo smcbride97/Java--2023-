@@ -1,0 +1,427 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Hangman",
+            "request": "launch",
+            "mainClass": "Hangman",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "ShapeTest",
+            "request": "launch",
+            "mainClass": "oo.ShapeTest",
+            "projectName": "Java_93e2d5d1"
+        },
+        {
+            "type": "java",
+            "name": "Route",
+            "request": "launch",
+            "mainClass": "Route",
+            "projectName": "Java_93e2d5d1"
+        },
+        {
+            "type": "java",
+            "name": "Battleship",
+            "request": "launch",
+            "mainClass": "Battleship",
+            "projectName": "Java_93e2d5d1"
+        },
+        {
+            "type": "java",
+            "name": "Boules",
+            "request": "launch",
+            "mainClass": "Boules",
+            "projectName": "Java_93e2d5d1"
+        },
+        {
+            "type": "java",
+            "name": "Hangman",
+            "request": "launch",
+            "mainClass": "Hangman",
+            "projectName": "Java_93e2d5d1"
+        },
+        {
+            "type": "java",
+            "name": "ProductTest",
+            "request": "launch",
+            "mainClass": "com.sean.Ecommerce.ProductTest",
+            "projectName": "Ecommerce"
+        },
+        {
+            "type": "java",
+            "name": "Converter",
+            "request": "launch",
+            "mainClass": "Converter",
+            "projectName": "Java_93e2d5d1"
+        },
+        {
+            "type": "java",
+            "name": "TwoSum",
+            "request": "launch",
+            "mainClass": "LeetCode.TwoSum",
+            "projectName": "Java_93e2d5d1"
+        },
+        {
+            "type": "java",
+            "name": "EcommerceApplication",
+            "request": "launch",
+            "mainClass": "com.sean.Ecommerce.EcommerceApplication",
+            "projectName": "Ecommerce"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "peer.to.peer.lending.platform.App",
+            "projectName": "app"
+        },
+        {
+            "type": "java",
+            "name": "TwoSum",
+            "request": "launch",
+            "mainClass": "LeetCode.TwoSum",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "TwoSum",
+            "request": "launch",
+            "mainClass": "TwoSum",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Converter",
+            "request": "launch",
+            "mainClass": "Converter",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "CurrencyConverter",
+            "request": "launch",
+            "mainClass": "CurrencyConverter.CurrencyConverter",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Converter",
+            "request": "launch",
+            "mainClass": "CurrencyConverter.Converter",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "CurrencyConverter",
+            "request": "launch",
+            "mainClass": "CurrencyConverter",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "MapSort",
+            "request": "launch",
+            "mainClass": "MapSort",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Hangman",
+            "request": "launch",
+            "mainClass": "Hangman",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "HangMan",
+            "request": "launch",
+            "mainClass": "HangMan",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "GenQTest",
+            "request": "launch",
+            "mainClass": "GenQTest",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "GenericMethod",
+            "request": "launch",
+            "mainClass": "GenericMethod",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "GenericTest",
+            "request": "launch",
+            "mainClass": "GenericTest",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "WordCount",
+            "request": "launch",
+            "mainClass": "WordCount",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "ExceptExercise",
+            "request": "launch",
+            "mainClass": "ExceptExercise",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "oo.Calculator.Calculator",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Route",
+            "request": "launch",
+            "mainClass": "Route",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Boules",
+            "request": "launch",
+            "mainClass": "Boules",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Blavingad",
+            "request": "launch",
+            "mainClass": "Blavingad",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "ChineseZodiac",
+            "request": "launch",
+            "mainClass": "ChineseZodiac",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Week",
+            "request": "launch",
+            "mainClass": "Week",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Month",
+            "request": "launch",
+            "mainClass": "Month",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Month",
+            "request": "launch",
+            "mainClass": "oo.Month",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "WrapperClass",
+            "request": "launch",
+            "mainClass": "oo.WrapperClass",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "ClassObject",
+            "request": "launch",
+            "mainClass": "oo.ClassObject",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "oo.Main",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "ShapeTest",
+            "request": "launch",
+            "mainClass": "oo.ShapeTest",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "PointTest",
+            "request": "launch",
+            "mainClass": "oo.PointTest",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "PointTest",
+            "request": "launch",
+            "mainClass": "PointTest",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Point",
+            "request": "launch",
+            "mainClass": "Point",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Password",
+            "request": "launch",
+            "mainClass": "Password",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Method",
+            "request": "launch",
+            "mainClass": "Method",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "PascalsTriangle",
+            "request": "launch",
+            "mainClass": "PascalsTriangle",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Easter",
+            "request": "launch",
+            "mainClass": "Easter",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Battleship",
+            "request": "launch",
+            "mainClass": "Battleship",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Arr2D",
+            "request": "launch",
+            "mainClass": "Arr2D",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Var",
+            "request": "launch",
+            "mainClass": "Var",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Arr",
+            "request": "launch",
+            "mainClass": "Arr",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "ChessBoard",
+            "request": "launch",
+            "mainClass": "ChessBoard",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Expressions",
+            "request": "launch",
+            "mainClass": "Expressions",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Forloop",
+            "request": "launch",
+            "mainClass": "Forloop",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Goodbye",
+            "request": "launch",
+            "mainClass": "Goodbye",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloLonger",
+            "request": "launch",
+            "mainClass": "HelloLonger",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ifelseif",
+            "request": "launch",
+            "mainClass": "Ifelseif",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operators",
+            "request": "launch",
+            "mainClass": "Operators",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Switch",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "Java_c475fa7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Whileloop",
+            "request": "launch",
+            "mainClass": "Whileloop",
+            "projectName": "Java_c475fa7e"
+        }
+    ]
+}

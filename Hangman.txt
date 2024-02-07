@@ -1,0 +1,25 @@
+Hangman
+
+words: read in from dictionary file
+word: get word randomly from words
+guess: get guess
+validate guess
+display 
+-word: show correctly guessed char, and hide other characters
+-incorrect guesses: sorted in alphabet order
+
+determine win
+
+display result: all 7 guesses are used
+- score
+- roll of honor: record player's name if in top 5
+- display high score list
+
+Data: 
+words: ArrayList of String
+word: String
+correctGuesses: ArrayList<Char>
+wrongGuesses: ArrayList<Char>
+guesses count: Max 7
+high score list
+
